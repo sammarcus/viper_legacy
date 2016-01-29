@@ -83,7 +83,7 @@ $placeholder = $this->__('Search for ballast SKU ...');
         {{/thumbnail_url}}
 
         <div class="info">
-            {{{_highlightResult.name.value}}}
+            {{{_highlightResult.sku.value}}}
 
             <div class="algoliasearch-autocomplete-category">
                 {{#categories_without_path}}
@@ -150,7 +150,7 @@ $placeholder = $this->__('Search for ballast SKU ...');
 <script type="text/template" id="autocomplete_pages_template">
     <a class="algoliasearch-autocomplete-hit" href="{{url}}">
         <div class="info-without-thumb">
-            {{{_highlightResult.name.value}}}
+            {{{_highlightResult.sku.value}}}
             {{#content}}
                 <div class="details">
                     {{{content}}}
@@ -300,7 +300,7 @@ $placeholder = $this->__('Search for ballast SKU ...');
                     -->
                     <div class="result-sub-content">
                         <h3 class="result-title text-ellipsis">
-                            {{{ _highlightResult.name.value }}}
+                            {{{ _highlightResult.sku.value }}}
                         </h3>
                         <div class="ratings">
                             <div class="result-sub-content">
