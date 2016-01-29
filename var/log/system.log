@@ -1,0 +1,22 @@
+2015-08-28T16:57:29+00:00 ERR (3): Warning: include(Mage/ImportExport/Model/Import/Adapter/Xlsx.php): failed to open stream: No such file or directory  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Autoload.php on line 94
+2015-08-28T16:57:29+00:00 ERR (3): Warning: include(): Failed opening 'Mage/ImportExport/Model/Import/Adapter/Xlsx.php' for inclusion (include_path='/opt/bitnami/apps/magento/htdocs/app/code/local:/opt/bitnami/apps/magento/htdocs/app/code/community:/opt/bitnami/apps/magento/htdocs/app/code/core:/opt/bitnami/apps/magento/htdocs/lib:.:/opt/bitnami/php/lib/php')  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Autoload.php on line 94
+2016-01-25T05:27:21+00:00 CRIT (2): Not valid template file:frontend/base/default/template/checkout/onepage/link.phtml
+2016-01-25T05:27:22+00:00 CRIT (2): Not valid template file:frontend/base/default/template/checkout/onepage/link.phtml
+2016-01-25T05:28:03+00:00 CRIT (2): Not valid template file:frontend/base/default/template/checkout/onepage/link.phtml
+2016-01-25T05:28:03+00:00 CRIT (2): Not valid template file:frontend/base/default/template/checkout/onepage/link.phtml
+2016-01-25T05:28:03+00:00 CRIT (2): Not valid template file:frontend/base/default/template/checkout/multishipping/link.phtml
+2016-01-25T05:28:34+00:00 CRIT (2): Not valid template file:frontend/base/default/template/checkout/onepage/link.phtml
+2016-01-25T05:28:34+00:00 CRIT (2): Not valid template file:frontend/base/default/template/checkout/onepage/link.phtml
+2016-01-25T05:28:34+00:00 CRIT (2): Not valid template file:frontend/base/default/template/checkout/multishipping/link.phtml
+2016-01-25T05:28:40+00:00 CRIT (2): Not valid template file:frontend/base/default/template/checkout/onepage/link.phtml
+2016-01-25T05:28:41+00:00 CRIT (2): Not valid template file:frontend/base/default/template/checkout/onepage/link.phtml
+2016-01-25T05:28:41+00:00 CRIT (2): Not valid template file:frontend/base/default/template/checkout/multishipping/link.phtml
+2016-01-25T05:30:06+00:00 CRIT (2): Not valid template file:frontend/base/default/template/checkout/onepage/link.phtml
+2016-01-25T05:30:06+00:00 CRIT (2): Not valid template file:frontend/base/default/template/checkout/onepage/link.phtml
+2016-01-25T05:30:06+00:00 CRIT (2): Not valid template file:frontend/base/default/template/checkout/multishipping/link.phtml
+2016-01-25T05:30:46+00:00 CRIT (2): Not valid template file:frontend/base/default/template/checkout/onepage/link.phtml
+2016-01-25T05:30:46+00:00 CRIT (2): Not valid template file:frontend/base/default/template/checkout/onepage/link.phtml
+2016-01-25T05:30:46+00:00 CRIT (2): Not valid template file:frontend/base/default/template/checkout/multishipping/link.phtml
+2016-01-25T05:31:50+00:00 CRIT (2): Not valid template file:frontend/base/default/template/checkout/onepage/link.phtml
+2016-01-25T05:31:50+00:00 CRIT (2): Not valid template file:frontend/base/default/template/checkout/onepage/link.phtml
+2016-01-25T05:31:50+00:00 CRIT (2): Not valid template file:frontend/base/default/template/checkout/multishipping/link.phtml

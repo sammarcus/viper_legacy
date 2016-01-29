@@ -1,0 +1,73 @@
+attribute_code,frontend_label,magmi:groups
+base_item,Base Item,Group
+sku_family,SKU Family,Group
+visibility_def,Visibility Def,Group
+simples_skus,Simples Skus,Group
+packaging_type_rank,Packaging Type Rank,Group
+packaging_type,Packaging Type,Group
+package_count,Package Count,Group
+version_number,Version Number,Group
+overall_status_rank,Overall Status Rank,Group
+overall_status,Overall Status,Group
+specific_status_rank,Specific Status Rank,Group
+specific_status,Specific Status,Group
+lead_style,Lead Style,Group
+product_type,Product Type,Group
+candela_pricing,Candela Pricing,Group
+lightway_pricing,Lightway Pricing,Group
+lightway_pricing_min_qty,Lightway Pricing Min Qty,Group
+min_order_qty,Min Order Qty,Group
+version_description,Version Description,Group
+frequency_hertz,Frequency Hertz,Group
+starting_method,Starting Method,Group
+lamp_connection,Lamp Connection,Group
+ballast_factor,Ballast Factor,Group
+lamp_combinations,Lamp Combinations,Group
+number_of_lamps,Number of Lamps,Group
+lamp_type,Lamp Type,Group
+rohs_compliant,Rohs Compliant,Group
+energy_star,Energy Star,Group
+input_power,Input Power,Group
+input_type,Input Type,Group
+max_voltage_combinations,Max Voltage Combinations,Group
+voltage_120v,Voltage 120V,Group
+voltage_240v,Voltage 240V,Group
+voltage_277v,Voltage 277V,Group
+voltage_347v,Voltage 347V,Group
+power_factor,Power Factor,Group
+power_factor_value,Power Factor Value,Group
+line_voltage,Line Voltage,Group
+line_current,Line Current,Group
+min_start_temp,Min Start Temp,Group
+sound_rating,Sound Rating,Group
+dimming_status,Dimming Status,Group
+standards,Standards,Group
+approvals,Approvals,Group
+ul_temp_code,UL Temp Code,Group
+product_patent,Product Patent,Group
+length_inches,Length Inches,Group
+width_inches,Width Inches,Group
+height_inches,Height Inches,Group
+mounting,Mounting,Group
+remote_mounting,Remote Mounting,Group
+lamps,Lamps,Group
+sku_length_inches,SKU length inches,Group
+sku_width_inches,SKU width inches,Group
+sku_height_inches,SKU height inches,Group
+sku_weight,SKU weight,Group
+successor_item,Successor Item,Group
+successor_base_item,Successor Base Item,Group
+successor_item_sku_family,Successor Item SKU Family,Group
+substitute_item,Substitute Item,Group
+substitute_base_item,Substitute Base Item,Group
+substitute_item_product_type,Substitute Item Product Type,Group
+substitute_item_overall_status,Substitute Item Overall Status,Group
+substitute_item_specific_status,Substitute Item Specific Status,Group
+substitute_item_sku_family,Substitute Item SKU Family,Group
+substitute_item_item_lead_style,Substitute Item Item Lead Style,Group
+competitor_cross,Competitor Cross,Group
+external_product_id,External Product ID,Group
+case_style,Case Style,Group
+eol,EOL,Group
+package_piececount,Pieces in carton/sku,Group
+price_piece,Price/piece,Group
