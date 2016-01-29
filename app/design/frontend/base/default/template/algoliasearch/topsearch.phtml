@@ -293,10 +293,10 @@ $placeholder = $this->__('Search for ballast SKU ...');
             <a href="{{url}}" class="result">
                 <div class="result-content">
                 <!--
-                    <div class="result-thumbnail">
-                        {{#image_url}}<img src="<?php echo $image_base_url; ?>{{{ image_url }}}" />{{/image_url}}
-                        {{^image_url}}<span class="no-image"></span>{{/image_url}}
-                    </div>
+                    // <div class="result-thumbnail">
+                    //     {{#image_url}}<img src="<?php echo $image_base_url; ?>{{{ image_url }}}" />{{/image_url}}
+                    //     {{^image_url}}<span class="no-image"></span>{{/image_url}}
+                    // </div>
                     -->
                     <div class="result-sub-content">
                         <h3 class="result-title text-ellipsis">
@@ -304,11 +304,13 @@ $placeholder = $this->__('Search for ballast SKU ...');
                         </h3>
                         <div class="ratings">
                             <div class="result-sub-content">
-                                <div class="ratings">
-                                    <div class="rating-box">
-                                        <div class="rating" style="width:{{rating_summary}}%" width="148" height="148"></div>
-                                    </div>
-                                </div>
+                            <!--
+                                // <div class="ratings">
+                                //     <div class="rating-box">
+                                //         <div class="rating" style="width:{{rating_summary}}%" width="148" height="148"></div>
+                                //     </div>
+                                // </div>
+                            -->
                                 <div class="price">
                                     <div class="price-wrapper">
                                         <div>
