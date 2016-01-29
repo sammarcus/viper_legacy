@@ -1,0 +1,17 @@
+
+/.htaccess
+/app/etc/local.xml
+/downloader
+/errors/
+/includes
+/index.php
+/index.php.sample
+/install.php
+/LICENSE*
+/media
+/pear
+/php.ini.sample
+RELEASE_NOTES.txt
+/robots.txt
+/shell
+/var
