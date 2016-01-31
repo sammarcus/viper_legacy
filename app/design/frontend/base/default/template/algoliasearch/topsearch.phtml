@@ -604,6 +604,10 @@ $placeholder = $this->__('Search for ballast SKU ...');
                         name = facet.attribute + algoliaConfig.priceKey
                     }
 
+                    // if (name == 'voltage') {
+                    //     name = facet.attribute + algoliaConfig
+                    // }
+
                     attributes.push({
                         name: name,
                         label: facet.label ? facet.label : facet.attribute
