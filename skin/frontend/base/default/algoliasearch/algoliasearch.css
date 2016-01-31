@@ -946,9 +946,11 @@ a.ais-current-refined-values--link:hover
 }
 
 #algolia_instant_selector .result .result-title {
-  font-size: 14px;
+  font-size: 20px;
   text-align: center;
   color: #636363;
+  font-family: "Calibri";
+  font-weight: bold;
 }
 
 #algolia_instant_selector .ui-widget-header {
